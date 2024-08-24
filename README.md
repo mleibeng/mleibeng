@@ -3,11 +3,10 @@
 </div>
 <div id="logos" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="Linkedin Logo"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60" height="60" alt="Fire"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="60" height="60" alt="Clock"/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=mleibeng&style=flat-square&color=blue" alt=""/>
+<div id="viewers" align="center">
+<img src="https://komarev.com/ghpvc/?username=mleibeng&style=flat-square&color=blue" alt=""/>  
+</div>
 <h1>
   Hi there 👋
 </h1>
