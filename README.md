@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100"/>
 </div>
 <div id="logos" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="Linkedin Logo"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" title="Linkedin" alt="Linkedin Logo"/>
 <!--   [comment]: Need to add e-mail contact badge in How to reach me and also need to add the link to both linkedin and mail in the logos section.
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="Linkedin Logo"/> -->
-  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="60" height="60" alt="Mail"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="60" height="60" title="E-Mail" alt="Mail"/>
 </div>
 <div id="viewers" align="center">
 <img src="https://komarev.com/ghpvc/?username=mleibeng&style=flat-square&color=blue" alt=""/>  
