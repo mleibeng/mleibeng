@@ -1,4 +1,4 @@
-[comment]: Need to add e-mail contact badge in How to reach me:, and need to add the link to both linkedin and mail in the logos section using <a>
+[comment]: Need to add e-mail contact badge in How to reach me:, and need to add the link to both linkedin and mail in the logos section.
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100"/>
 </div>
