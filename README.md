@@ -3,6 +3,8 @@
 </div>
 <div id="logos" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="Linkedin Logo"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="Linkedin Logo"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="60" height="60" alt="Mail"/>
 </div>
 <div id="viewers" align="center">
 <img src="https://komarev.com/ghpvc/?username=mleibeng&style=flat-square&color=blue" alt=""/>  
@@ -14,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
 
 ### 🧑🏻‍💻 About Me:
 I am currently a Student at 42Heilbronn
