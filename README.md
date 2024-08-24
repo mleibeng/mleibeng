@@ -21,9 +21,9 @@
 ### 🧑🏻‍💻 About Me:
 I am a Student at 42Heilbronn
 
-- 💡 I’m currently building several small projects in Go, Js and C++.
+- 💡 I’m currently building several small projects in Go, C and C++.
 
-- 📜 Exploring Software Architecture and Algorithms.
+- 📜 Exploring Software Architecture, specifically Web Servers at the moment.
 
 - 🚧 In my free time I build fun side projects, like LoRas, or try to learn different languages like JS.
 
