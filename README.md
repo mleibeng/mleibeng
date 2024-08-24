@@ -28,7 +28,9 @@ I am a Student at 42Heilbronn
 
 - 🚧 In my free time I build fun side projects, like LoRas, or try to learn different languages like JS.
 
-- 📫 How to reach me: [![Linkedin Logo](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me:
+  [![Linkedin Logo](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  [![Email Logo](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:leibenguth.marvin@web.de)
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
 
