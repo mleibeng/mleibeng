@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
 
 ### 🧑🏻‍💻 About Me:
 I am currently a Student at 42Heilbronn
@@ -29,7 +29,7 @@ I am currently a Student at 42Heilbronn
 
 - 📫 How to reach me: [![Linkedin Logo](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
 
 ### 🛠️: Languages and Tools :
 
@@ -45,9 +45,9 @@ I am currently a Student at 42Heilbronn
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 </div>
 
----
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  alt="Divider"/>
 
-### :electron: My Stats:
+###  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/> My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mleibeng&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
