@@ -29,7 +29,7 @@ I am a Student at 42Heilbronn
 
 - 📜 Exploring Software Architecture, specifically Web Apps at the moment.
 
-- 🚧 In my free time I build fun side projects, or try to learn different languages like Go.
+- 🚧 In my free time I build fun side projects, try to learn new languages and challenge myself with CTFs.
 
 - 📫 How to reach me:
   [![Linkedin Logo](https://img.shields.io/badge/-mleibeng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bzgvl2koVSNSauw1heRwWag%3D%3D)
