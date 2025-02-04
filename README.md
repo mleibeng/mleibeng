@@ -25,11 +25,11 @@
 ### 🧑🏻‍💻 About Me:
 I am a Student at 42Heilbronn
 
-- 💡 I’m currently building several small projects in Go, C and C++.
+- 💡 I’m currently building several small projects in React+Vite, C++ and Python.
 
-- 📜 Exploring Software Architecture, specifically Web Servers at the moment.
+- 📜 Exploring Software Architecture, specifically Web Apps at the moment.
 
-- 🚧 In my free time I build fun side projects, or try to learn different languages like JS.
+- 🚧 In my free time I build fun side projects, or try to learn different languages like Go.
 
 - 📫 How to reach me:
   [![Linkedin Logo](https://img.shields.io/badge/-mleibeng-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bzgvl2koVSNSauw1heRwWag%3D%3D)
